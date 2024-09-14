@@ -39,7 +39,7 @@ iOS font (San Francisco) English &amp; Arabic Installation for Android for both 
 > [!WARNING]
 > If you can't find a supported method for applying the font with **zFont 3** (like Pixel and AOSP CROMs users) then you must **root** your device and use the rooted method.
 > `.zip` files are only for rooted devices.
-# For rooted devices:
+### For rooted devices:
 - Apply the module with your module manager (like **Magisk**).
 # Credits:
 - [@oasisfeng](https://github.com/oasisfeng/) for the module template.

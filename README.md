@@ -1,14 +1,14 @@
-# iOS-Font-Install-For-android
+# apple-typography-for-android
 iOS font (San Francisco) English &amp; Arabic Installation for Android for both rooted and non-rooted devices.
 ## Download:
 - Modules are for rooted devices, TTF Files are for non-rooted devices.
 ### Modules:
 - [SF Pro](https://gitlab.com/nongthaihoang/oh_my_font/-/raw/master/releases/OMF.zip)
-- [SF Arabic](https://github.com/dpejoh/iOS-Font-Installer-For-Android/releases/tag/v1.0)
+- [SF Arabic](https://github.com/dpejoh/apple-typography-for-android/releases/tag/v1.0)
 - [Apple Color Emoji](https://github.com/Keinta15/Magisk-iOS-Emoji/releases/download/v17.4/Magisk_iOS_Emoji_17.4.zip)
 ### TTF Files:
 - [All SF Pro fonts (without SF Arabic)](https://github.com/sahibjotsaggu/San-Francisco-Pro-Fonts)
-- [SF Pro & Arabic](https://github.com/dpejoh/iOS-Font-Install-For-android/releases/download/v1.0/SFProText-SFArabic-Regular.ttf)
+- [SF Pro & Arabic](https://github.com/dpejoh/apple-typography-for-android/releases/download/v1.0/SFProText-SFArabic-Regular.ttf)
 ## Why do you need to change fonts?
 - iOS fonts offer clearer readability and better consistency compared to Android fonts, and are considered the best in terms of user interface compared to other available fonts.
 ## Fonts Included:
